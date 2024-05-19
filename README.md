@@ -23,3 +23,10 @@ This project is a sample implementation of a Spring Boot application integrated 
 1. **Java**: Ensure Java is installed on your system.
    ```bash
    java -version
+
+2. **Maven**: Ensure Maven is installed on your system.
+   mvn -version
+
+4. 
+
+
