@@ -10,7 +10,7 @@ public class SparkConfig {
 
     @Bean
     public SparkSession sparkSession() {
-        SparkConf sparkConf = new SparkConf().setAppName("SparkCraft").setMaster("local[*]");
+        SparkConf sparkConf = new SparkConf().setAppName("IPProcessing").setMaster("local[*]");
         return SparkSession.builder().config(sparkConf).getOrCreate();
     }
 }
