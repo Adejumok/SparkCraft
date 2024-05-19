@@ -28,6 +28,12 @@ This project is a sample implementation of a Spring Boot application integrated 
    ```bash
    mvn -version
 
-4. 
+4. **Apache Spark**: Download and extract Apache Spark.
+   ```bash
+   https://downloads.apache.org/spark
+
+
+
+
 
 
