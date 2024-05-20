@@ -44,7 +44,9 @@ This project is a sample implementation of a Spring Boot application integrated 
    ```bash    
    git clone https://github.com/Adejumok/SparkCraft.git
    cd SparkCraft
-
+2. **Build the project**:
+   ```bash
+   mvn clean install
 
 
 
