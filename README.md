@@ -32,12 +32,19 @@ This project is a sample implementation of a Spring Boot application integrated 
    ```bash
    https://downloads.apache.org/spark
 
-5. Set Environment Variables: Set environment variables for Spark and Java.
+5. **Set Environment Variables**: Set environment variables for Spark and Java.
    Add the following to your .bashrc, .zshrc, or equivalent file.
    ```bash
    export SPARK_HOME=/path/to/spark-3.1.2-bin-hadoop3.2
    export PATH=$PATH:$SPARK_HOME/bin
    export JAVA_HOME=/path/to/java11
+
+## Project Setup
+1. **Clone the repository**:
+   ```bash    
+   git clone https://github.com/Adejumok/SparkCraft.git
+   cd SparkCraft
+
 
 
 
